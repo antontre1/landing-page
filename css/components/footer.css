@@ -1,0 +1,22 @@
+.footer {
+  text-align: center;
+  font-stretch: expanded;
+  background-color: #221912;
+  margin: 0;
+}
+
+.footer li {
+  color: white;
+  font-size: 56px;
+  display: inline;
+}
+
+.footer p {
+  color: white;
+  opacity: 0.7;
+  padding: 0 50px 50px 50px;
+}
+
+.footer .fa-heart {
+  color: rgb(131, 15, 15)
+}
