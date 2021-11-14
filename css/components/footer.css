@@ -27,3 +27,11 @@
 .footer .fa-heart {
   color: rgb(161, 18, 18)
 }
+
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .footer p {
+    font-size: 10px;
+  }
+
+}

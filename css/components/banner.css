@@ -11,3 +11,16 @@
 .banner  p {
   opacity: 0.7;
 }
+
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+
+  .banner h1 {
+    text-align: center;
+  }
+
+  .banner p {
+    text-align: center;
+  }
+
+}

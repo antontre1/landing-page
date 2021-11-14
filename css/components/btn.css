@@ -5,3 +5,13 @@
   width: 180px;
   border-radius: 30px;
 }
+
+
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+.btn-frite {
+      margin: 28px auto;
+      padding: 12px 2px;
+}
+
+}
